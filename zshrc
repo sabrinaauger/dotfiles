@@ -70,3 +70,5 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+eval "$(direnv hook zsh)"
+eval "$(direnv hook zsh)"
